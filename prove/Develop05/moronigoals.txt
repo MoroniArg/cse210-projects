@@ -1,0 +1,3 @@
+700
+Simple|Go to the temple|Attend the temple and do some good stuff|200|True
+Eternal|Do FHE|Do a Family Home Evening with wife and son|300
